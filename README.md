@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ravil Eefndiev
+# 👋 Hi, I’m Ravil Eefendiev
 #### Software developer with a strong foundation in C++, game programming, and full-stack development 
 
 🎮 Experience with game engines, Vulkan, and web technologies
