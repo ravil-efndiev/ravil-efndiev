@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Ravil Eefendiev
-#### Software developer with a strong foundation in C++, game programming, and full-stack development 
+#### Software developer with a strong foundation in fullstack development, C++ and game engines
 
-🎮 Experience with game engines, Vulkan, and web technologies
+🎮 Experience with web technologies, databases and game development
 
-⚡ Passionate about performance, architecture, and problem-solving
+⚡ Passionate about architecture, performance and problem-solving
 
 📧 Contact: efendievravil@gmail.com
 <!---
